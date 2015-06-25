@@ -1,0 +1,7 @@
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\ScheduledTaskAgent1\Bin\Release\ScheduledTaskAgent1.dll
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\ScheduledTaskAgent1\Bin\Release\ScheduledTaskAgent1.pdb
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\ScheduledTaskAgent1\Bin\Release\PhoneClassLibrary2.dll
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\ScheduledTaskAgent1\Bin\Release\PhoneClassLibrary2.pdb
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\ScheduledTaskAgent1\obj\Release\ScheduledTaskAgent1.csprojResolveAssemblyReference.cache
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\ScheduledTaskAgent1\obj\Release\ScheduledTaskAgent1.dll
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\ScheduledTaskAgent1\obj\Release\ScheduledTaskAgent1.pdb

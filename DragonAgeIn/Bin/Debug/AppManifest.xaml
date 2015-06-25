@@ -1,0 +1,10 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="DragonAgeIn" EntryPointType="DragonAgeIn.App" RuntimeVersion="6.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="DragonAgeIn" Source="DragonAgeIn.dll" />
+    <AssemblyPart x:Name="Microsoft.Advertising.Mobile" Source="Microsoft.Advertising.Mobile.dll" />
+    <AssemblyPart x:Name="microsoft.advertising.mobile.ui" Source="microsoft.advertising.mobile.ui.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Maps" Source="Microsoft.Phone.Controls.Maps.dll" />
+    <AssemblyPart x:Name="PhoneClassLibrary2" Source="PhoneClassLibrary2.dll" />
+    <AssemblyPart x:Name="ScheduledTaskAgent1" Source="ScheduledTaskAgent1.dll" />
+  </Deployment.Parts>
+</Deployment>

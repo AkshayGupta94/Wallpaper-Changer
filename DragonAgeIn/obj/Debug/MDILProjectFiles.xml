@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>DragonAgeIn.dll</File>
+    <File>150x150.png</File>
+    <File>44x44.png</File>
+    <File>71x71.png</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\ApplicationBar.Check.png</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>da3\1.jpg</File>
+    <File>da3\10.jpg</File>
+    <File>da3\11.jpg</File>
+    <File>da3\12.jpg</File>
+    <File>da3\13.jpg</File>
+    <File>da3\14.jpg</File>
+    <File>da3\15.jpg</File>
+    <File>da3\2.jpg</File>
+    <File>da3\3.jpg</File>
+    <File>da3\4.jpg</File>
+    <File>da3\5.jpg</File>
+    <File>da3\6.jpg</File>
+    <File>da3\7.jpg</File>
+    <File>da3\8.jpg</File>
+    <File>da3\9.jpg</File>
+    <File>images.jpg</File>
+    <File>Inquisition_heraldry_DA2 - Copy.png</File>
+    <File>AppManifest.xaml</File>
+    <File>Microsoft.Advertising.Mobile.dll</File>
+    <File>microsoft.advertising.mobile.ui.dll</File>
+    <File>Microsoft.Phone.Controls.Maps.dll</File>
+    <File>PhoneClassLibrary2.dll</File>
+    <File>ScheduledTaskAgent1.dll</File>
+    <File>Microsoft.Advertising.Mobile.xml</File>
+    <File>microsoft.advertising.mobile.ui.xml</File>
+    <File>Inquisitio.png</File>
+    <File>Inquisition_heraldry_DA2.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

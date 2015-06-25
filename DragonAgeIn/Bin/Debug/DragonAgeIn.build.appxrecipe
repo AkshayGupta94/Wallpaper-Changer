@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AXE-PC</Machine>
+    <WindowsUser>Akshay</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>eca2f4f5-0dd5-4fe8-b0fb-2c77daa88e59</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Bin\Debug\DragonAgeIn.dll">
+      <PackagePath>DragonAgeIn.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\PhoneClassLibrary2\Bin\Debug\PhoneClassLibrary2.dll">
+      <PackagePath>PhoneClassLibrary2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll">
+      <PackagePath>ScheduledTaskAgent1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll">
+      <PackagePath>Microsoft.Advertising.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\program files %28x86%29\microsoft sdks\windows phone\v8.0\extensionsdks\msadvertising\6.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.ui.dll">
+      <PackagePath>microsoft.advertising.mobile.ui.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.Maps.dll">
+      <PackagePath>Microsoft.Phone.Controls.Maps.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\cs-CZ\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>cs-CZ\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\da-DK\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>da-DK\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\de-DE\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>de-DE\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\el-GR\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>el-GR\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\en-GB\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>en-GB\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\es-ES\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>es-ES\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\fi-FI\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>fi-FI\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\fr-FR\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>fr-FR\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\hu-HU\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>hu-HU\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\it-IT\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>it-IT\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\ja-JP\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>ja-JP\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\ko-KR\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>ko-KR\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\nb-NO\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>nb-NO\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\nl-NL\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>nl-NL\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\pl-PL\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>pl-PL\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\pt-BR\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>pt-BR\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\pt-PT\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>pt-PT\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\ru-RU\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>ru-RU\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\sv-SE\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>sv-SE\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\zh-CN\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>zh-CN\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\zh-TW\Microsoft.Advertising.Mobile.resources.dll">
+      <PackagePath>zh-TW\Microsoft.Advertising.Mobile.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml">
+      <PackagePath>Microsoft.Advertising.Mobile.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\program files %28x86%29\microsoft sdks\windows phone\v8.0\extensionsdks\msadvertising\6.1\references\commonconfiguration\neutral\microsoft.advertising.mobile.ui.xml">
+      <PackagePath>microsoft.advertising.mobile.ui.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\150x150.png">
+      <PackagePath>150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\44x44.png">
+      <PackagePath>44x44.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\71x71.png">
+      <PackagePath>71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\ApplicationBar.Check.png">
+      <PackagePath>Assets\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Inquisitio.png">
+      <PackagePath>Inquisitio.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Inquisition_heraldry_DA2 - Copy.png">
+      <PackagePath>Inquisition_heraldry_DA2 - Copy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Inquisition_heraldry_DA2.png">
+      <PackagePath>Inquisition_heraldry_DA2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\1.jpg">
+      <PackagePath>da3\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\10.jpg">
+      <PackagePath>da3\10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\11.jpg">
+      <PackagePath>da3\11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\12.jpg">
+      <PackagePath>da3\12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\13.jpg">
+      <PackagePath>da3\13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\14.jpg">
+      <PackagePath>da3\14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\15.jpg">
+      <PackagePath>da3\15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\2.jpg">
+      <PackagePath>da3\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\3.jpg">
+      <PackagePath>da3\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\4.jpg">
+      <PackagePath>da3\4.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\5.jpg">
+      <PackagePath>da3\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\6.jpg">
+      <PackagePath>da3\6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\7.jpg">
+      <PackagePath>da3\7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\8.jpg">
+      <PackagePath>da3\8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\da3\9.jpg">
+      <PackagePath>da3\9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\images.jpg">
+      <PackagePath>images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\DragonAgeIn\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

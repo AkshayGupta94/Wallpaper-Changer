@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{eca2f4f5-0dd5-4fe8-b0fb-2c77daa88e59}" Title="Dragon Age In wallpapers HD" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Axe Julius" Description="Sample description" SDOptOut="false" BackUpOptOut="false" Publisher="Axe Julius" PublisherID="{caa15d4a-ef1b-43f9-857e-91d7dbc27063}">
+    <IconPath IsRelative="true" IsResource="false">Inquisitio.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_IDENTITY_USER" />
+      <Capability Name="ID_CAP_PHONEDIALER" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" ActivationPolicy="Resume" />
+      <ExtendedTask Name="AroundMeLockScreenChangerTask">
+        <BackgroundServiceAgent Specifier="ScheduledTaskAgent" Name="LockScreenChanger" Source="ScheduledTaskAgent1" Type="ScheduledTaskAgent1.ScheduledAgent" />
+      </ExtendedTask>
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="DragonAgeInToken" TaskName="_default">
+        <TemplateFlip>
+          <SmallImageURI IsRelative="true" IsResource="false">Inquisition_heraldry_DA2 - Copy.png</SmallImageURI>
+          <Count>0</Count>
+          <BackgroundImageURI IsRelative="true" IsResource="false">Inquisition_heraldry_DA2.png</BackgroundImageURI>
+          <Title>Dragon Age</Title>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
+          <LargeBackgroundImageURI IsRelative="true" IsResource="false">images.jpg</LargeBackgroundImageURI>
+          <LargeBackContent />
+          <LargeBackBackgroundImageURI IsRelative="true" IsResource="false"></LargeBackBackgroundImageURI>
+          <DeviceLockImageURI></DeviceLockImageURI>
+          <HasLarge>True</HasLarge>
+        </TemplateFlip>
+      </PrimaryToken>
+    </Tokens>
+    <Extensions>
+      <Extension ExtensionName="LockScreen_Background" ConsumerID="{111DFF24-AA15-4A96-8006-2BFF8122084F}" TaskID="_default" />
+    </Extensions>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.1.14194 -->

@@ -1,0 +1,4 @@
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\PhoneClassLibrary2\Bin\Release\PhoneClassLibrary2.dll
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\PhoneClassLibrary2\Bin\Release\PhoneClassLibrary2.pdb
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\PhoneClassLibrary2\obj\Release\PhoneClassLibrary2.dll
+C:\Users\Akshay\documents\visual studio 2013\Projects\DragonAgeIn\PhoneClassLibrary2\obj\Release\PhoneClassLibrary2.pdb
